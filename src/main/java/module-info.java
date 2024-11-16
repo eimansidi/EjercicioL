@@ -1,4 +1,4 @@
-module es.juliogtrenard.aeropuertos {
+module com.eiman.aeropuerto {
     requires javafx.controls;
     requires javafx.fxml;
     requires java.sql;
